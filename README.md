@@ -2,7 +2,7 @@
 
 This is the completed project for my YouTube video on integrating SwiftUI Views into a UIKit project
 
-The starter project and video is available in the notes for the video.https://youtu.be/
+The starter project and video is available in the notes for the video.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=9urhPz9OGzQ
 " target="_blank"><img src="http://img.youtube.com/vi/9urhPz9OGzQ/0.jpg" 
